@@ -1,12 +1,6 @@
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch main
-# Your branch is up to date with 'origin/main'.
-#
-# Changes to be committed:
-#	new file:   Data/Raw/Video_Game_Sales_as_of_Jan_2017.csv
-#	new file:   Data/Raw/Video_Games_Sales_as_at_22_Dec_2016.csv
-#	new file:   Data/Raw/vgsalesGlobale.csv
-#	new file:   NoteBooks/datasets.ipynb
-#
+Changes to be committed:
+new file:   Data/Raw/Video_Game_Sales_as_of_Jan_2017.csv
+new file:   Data/Raw/Video_Games_Sales_as_at_22_Dec_2016.csv
+new file:   Data/Raw/vgsalesGlobale.csv
+new file:   NoteBooks/datasets.ipynb
+
